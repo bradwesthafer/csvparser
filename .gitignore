@@ -1,0 +1,5 @@
+**/.idea
+**/node_modules
+file.csv
+file.json
+output.txt

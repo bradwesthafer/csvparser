@@ -1,0 +1,9 @@
+{
+  "name": "csvparser",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
